@@ -1,6 +1,6 @@
 # Libft - 42 Project
 
-![Xmodz](https://c.top4top.io/p_32365zw4d1.png)
+<img src="https://c.top4top.io/p_32365zw4d1.png" alt="Libft Logo" width="200"/>
 
 Libft is a custom implementation of standard C library functions, created as part of the 42 curriculum. This project aims to deepen understanding of C programming by recreating commonly used functions from scratch.
 
